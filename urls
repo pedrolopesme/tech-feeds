@@ -1,7 +1,5 @@
-# News
-http://feeds.feedburner.com/TechCrunch/       news
-http://www.androidauthority.com/feed/         news
-http://feeds.feedburner.com/TheHackersNew     newss
+# Agile
+https://martinfowler.com/feed.atom            agile
 
 # Android Dev
 https://medium.com/feed/google-developers     android
@@ -23,6 +21,24 @@ https://9to5google.com/feed/                  android
 https://medium.com/feed/square-corner-blog    android
 https://medium.com/feed/@manuelvicnt          android
 
+# Design
+https://www.smashingmagazine.com/feed/        design
+http://feedpress.me/uxbooth                   design
+
+# Engineering
+https://apigee.com/about/blog/blog.xml        engineering
+https://www.infoq.com/feed                    engineering
+https://medium.com/feed/netflix-techblog      engineering
+http://typicalprogrammer.com/feed.xml         engineering
+http://feeds.codecommit.com/codecommit        engineering
+
 # Kotlin
 http://feeds.feedburner.com/kotlin            kotlin
 https://medium.com/feed/@jakewharton          kotlin
+
+# News
+http://feeds.feedburner.com/TechCrunch/       news
+http://www.androidauthority.com/feed/         news
+http://feeds.feedburner.com/TheHackersNew     news
+https://hackaday.com/blog/feed/               news
+http://feeds.arstechnica.com/arstechnica/index news
