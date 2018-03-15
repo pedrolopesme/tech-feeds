@@ -32,6 +32,20 @@ https://medium.com/feed/netflix-techblog      engineering
 http://typicalprogrammer.com/feed.xml         engineering
 http://feeds.codecommit.com/codecommit        engineering
 
+# Go
+https://blog.golang.org/feed.atom 	      go
+https://dave.cheney.net/category/golang/feed  go
+http://spf13.com/post/index.xml 	      go
+https://medium.com/feed/@matryer	      go
+https://carlosbecker.com/feed.xml 	      go
+https://www.ardanlabs.com/blog/index.xml      go
+http://www.alexedwards.net/static/feed.rss    go
+http://www.minaandrawos.com/feed/	      go
+https://jbrandhorst.com/index.xml 	      go
+https://appliedgo.net/index.xml 	      go
+https://blog.learngoprogramming.com/feed      go
+https://gopher.net.br/feed/ 		      go
+
 # Kotlin
 http://feeds.feedburner.com/kotlin            kotlin
 https://medium.com/feed/@jakewharton          kotlin
