@@ -34,8 +34,6 @@ http://blog.kaggle.com/feed/ 		      data-science
 http://www.danvk.org/atom.xml		      data-science
 http://dogdogfish.com/feed/		      data-science
 
-
-
 # Design
 https://www.smashingmagazine.com/feed/        design
 http://feedpress.me/uxbooth                   design
@@ -46,6 +44,14 @@ https://www.infoq.com/feed                    engineering
 https://medium.com/feed/netflix-techblog      engineering
 http://typicalprogrammer.com/feed.xml         engineering
 http://feeds.codecommit.com/codecommit        engineering
+https://githubengineering.com/atom.xml 	      engineering
+https://www.paypal-engineering.com/feed/      engineering
+https://engineering.instagram.com/feed 	      engineering
+https://engineering.foursquare.com/feed       engineering
+https://medium.com/airbnb-engineering/feed    engineering
+https://blogs.dropbox.com/tech/feed/ 	      engineering
+https://blog.heroku.com/feed 		      engineering
+https://developers.soundcloud.com/blog.rss    engineering
 
 # Go
 https://blog.golang.org/feed.atom 	      go
