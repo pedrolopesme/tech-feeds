@@ -21,6 +21,22 @@ https://9to5google.com/feed/                  android
 https://medium.com/feed/square-corner-blog    android
 https://medium.com/feed/@manuelvicnt          android
 
+# Cloud Computing
+https://kubernetes.io/feed.xml 		      cloud
+https://prometheus.io/blog/feed.xml	      cloud
+https://medium.com/feed/opentracing 	      cloud
+https://www.fluentd.org/blog/feed.rss         cloud
+https://grpc.io/feed.xml                      cloud
+https://blog.envoyproxy.io/                   cloud
+https://medium.com/jaegertracing              cloud
+https://blog.linkerd.io/feed/                 cloud
+https://nats.io/blog/index.xml                cloud
+https://deis.com/sitemap.xml                  cloud
+https://coredns.io/blog/index.xml             cloud
+https://blog.vitess.io/feeds/posts/default    cloud
+https://blog.rook.io/feed 		      cloud
+https://blog.openpolicyagent.org/             cloud
+
 # Data Science
 https://ahmedbesbes.com/feeds/all.atom.xml    data-science
 https://jeremykun.com/feed/		      data-science
