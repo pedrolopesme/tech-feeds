@@ -22,9 +22,9 @@ https://medium.com/feed/square-corner-blog    android
 https://medium.com/feed/@manuelvicnt          android
 
 # Cloud Computing
-https://kubernetes.io/feed.xml 		      cloud
-https://prometheus.io/blog/feed.xml	      cloud
-https://medium.com/feed/opentracing 	      cloud
+https://kubernetes.io/feed.xml 		            cloud
+https://prometheus.io/blog/feed.xml	          cloud
+https://medium.com/feed/opentracing 	        cloud
 https://www.fluentd.org/blog/feed.rss         cloud
 https://grpc.io/feed.xml                      cloud
 https://blog.envoyproxy.io/                   cloud
@@ -39,16 +39,16 @@ https://blog.openpolicyagent.org/             cloud
 
 # Data Science
 https://ahmedbesbes.com/feeds/all.atom.xml    data-science
-https://jeremykun.com/feed/		      data-science
-http://iamtrask.github.io/feed.xml	      data-science
+https://jeremykun.com/feed/		                data-science
+http://iamtrask.github.io/feed.xml	          data-science
 https://simplystatistics.org/index.xml	      data-science
-http://www.evanmiller.org/news.xml 	      data-science
+http://www.evanmiller.org/news.xml 	          data-science
 http://jakevdp.github.io/feeds/all.atom.xml   data-science
 https://www.datasciencecentral.com/profiles/blog/feed?promoted=1&xn_auth=no  data-science
-https://mubaris.com/feed.xml 		      data-science
-http://blog.kaggle.com/feed/ 		      data-science
-http://www.danvk.org/atom.xml		      data-science
-http://dogdogfish.com/feed/		      data-science
+https://mubaris.com/feed.xml 		              data-science
+http://blog.kaggle.com/feed/ 		              data-science
+http://www.danvk.org/atom.xml		              data-science
+http://dogdogfish.com/feed/		                data-science
 
 # Design
 https://www.smashingmagazine.com/feed/        design
@@ -65,27 +65,30 @@ https://www.paypal-engineering.com/feed/      engineering
 https://engineering.instagram.com/feed 	      engineering
 https://engineering.foursquare.com/feed       engineering
 https://medium.com/airbnb-engineering/feed    engineering
-https://blogs.dropbox.com/tech/feed/ 	      engineering
-https://blog.heroku.com/feed 		      engineering
+https://blogs.dropbox.com/tech/feed/ 	        engineering
+https://blog.heroku.com/feed 		              engineering
 https://developers.soundcloud.com/blog.rss    engineering
-https://eng.uber.com/feed/ 		      engineering
+https://eng.uber.com/feed/ 		                engineering
+https://developer.okta.com/feed.xml           engineering identity
+https://auth0.com/blog/rss.xml                engineering identity
+
 
 # Go
-https://blog.golang.org/feed.atom 	      go
+https://blog.golang.org/feed.atom 	          go
 https://dave.cheney.net/category/golang/feed  go
-http://spf13.com/post/index.xml 	      go
-https://medium.com/feed/@matryer	      go
-https://carlosbecker.com/feed.xml 	      go
+http://spf13.com/post/index.xml 	            go
+https://medium.com/feed/@matryer	            go
+https://carlosbecker.com/feed.xml 	          go
 https://www.ardanlabs.com/blog/index.xml      go
 http://www.alexedwards.net/static/feed.rss    go
-http://www.minaandrawos.com/feed/	      go
-https://jbrandhorst.com/index.xml 	      go
-https://appliedgo.net/index.xml 	      go
+http://www.minaandrawos.com/feed/	            go
+https://jbrandhorst.com/index.xml 	          go
+https://appliedgo.net/index.xml 	            go
 https://blog.learngoprogramming.com/feed      go
-https://gopher.net.br/feed/ 		      go
+https://gopher.net.br/feed/ 		              go
 http://www.doxsey.net/blog/feed/index.xml     go
-https://rakyll.org/index.xml 		      go
-https://npf.io/index.xml		      go
+https://rakyll.org/index.xml 		              go
+https://npf.io/index.xml		                  go
 
 # Kotlin
 http://feeds.feedburner.com/kotlin            kotlin
