@@ -74,7 +74,6 @@ https://auth0.com/blog/rss.xml                engineering identity
 https://levelup.gitconnected.com/feed         engineering
 https://blog.oneuptime.com/feed/              engineering
 
-
 # Go
 https://blog.golang.org/feed.atom 	          go
 https://dave.cheney.net/category/golang/feed  go
@@ -93,6 +92,9 @@ https://rakyll.org/index.xml 		              go
 https://npf.io/index.xml		                  go
 https://ricardo-linck.medium.com/feed         go
 https://scum-gazeta.medium.com/feed           go
+
+# Identity
+https://self-issued.info/?feed=rss2           identity
 
 # Kotlin
 http://feeds.feedburner.com/kotlin            kotlin
