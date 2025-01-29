@@ -17,7 +17,6 @@ https://labs.ribot.co.uk/feed                 android
 https://medium.com/feed/google-developer-experts  android
 https://medium.com/feed/@georgemount007       android
 https://medium.com/feed/@enriquelopezmanas    android
-https://9to5google.com/feed/                  android
 https://medium.com/feed/square-corner-blog    android
 https://medium.com/feed/@manuelvicnt          android
 
@@ -73,6 +72,22 @@ https://developer.okta.com/feed.xml           engineering identity
 https://auth0.com/blog/rss.xml                engineering identity
 https://levelup.gitconnected.com/feed         engineering
 https://blog.oneuptime.com/feed/              engineering
+https://medium.com/feed/plain-golang-tutorial engineering go
+https://stackoverflow.blog/feed/              engineering
+https://increment.com/feed.xml                engineering
+https://dev.to/feed                           engineering
+https://www.freecodecamp.org/news/rss/        engineering
+https://highscalability.com/rss/              engineering
+https://jvns.ca/atom.xml                      engineering
+https://blog.pragmaticengineer.com/rss/       engineering
+https://lethain.com/feeds.xml                 engineering
+https://blog.codinghorror.com/rss/            engineering
+https://blog.ploeh.dk/rss.xml                 engineering
+https://engineering.fb.com/feed/              engineering
+https://stripe.com/blog/feed.rss              engineering
+https://medium.com/feed/discord-engineering/tagged/engineering engineering
+https://slack.engineering/feed/               engineering
+
 
 # Go
 https://blog.golang.org/feed.atom 	          go
@@ -102,7 +117,5 @@ https://medium.com/feed/@jakewharton          kotlin
 
 # News
 http://feeds.feedburner.com/TechCrunch/       news
-http://www.androidauthority.com/feed/         news
 http://feeds.feedburner.com/TheHackersNew     news
 https://hackaday.com/blog/feed/               news
-http://feeds.arstechnica.com/arstechnica/index news
